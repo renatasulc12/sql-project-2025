@@ -90,7 +90,13 @@ Největší zjištěný rozdíl byl v roce 2013, kdy ceny potravin rostly a mzdy
 ### 5️⃣ Má výše HDP vliv na změny ve mzdách a cenách potravin?
 
 **Odpověď:**  
+Podle výsledných dat lze konstatovat, že změna HDP ČR **nemá jednoznačný a přímý vliv** na vývoj mezd a cen potravin. Změna hrubého domácího produktu není jediným faktorem ovlivňujícím výši mezd/cen potravin, nelze opomínat nabídku/poptávku, inflaci, měnový kurz, či aktuální politickou situaci v dané zemi.  
 
+Pro ilustraci si můžeme přiblížit odlišný vývoj v jednotlivých fázích hospodářské recese:  
+V době ekonomické krize 2009, kdy HDP výrazně kleslo (-4.66 %), mzdy stále rostly (3.16 %), avšak ceny potravin poklesly (-6.42 %) → i přes pokles HDP se zlepšila kupní síla domácností. 
+Naopak v době recese 2012-2013 se kupní síla domácností snižovala. Ačkoliv mzdy nejprve vzrostly (3.03 % v roce 2012), poté došlo k jejich poklesu (-1.56 % v roce 2013), na druhou stranu cena potravin oba roky rostla poměrně signifikantním tempem (6.73 a 5.1 %).  
+
+Ekonomický růst většinou provází i růst mezd, ale ceny potravin mají kolísající trend → obecně lze však říci, že kupní síla domácností se v tomto období zlepšuje.  
 
 ---
 
