@@ -37,6 +37,15 @@ SELECT *
 FROM growth
 ORDER BY year;
 
--- Cílem je zjistit, zda při růstku/poklesu HDP vzroste/klesne mzda a cena potravim ve stejném či následujícím roce.
--- Data naznačují, že růst HDP obvykle souvisí s růstem mezd a mírným růstem cen potravin.
--- Přímou jednoznačnou závislost však nelze prokázat pouze z těchto dat, protože do vývoje cen vstupují i další faktory (např. světové ceny komodit, dovozní ceny, daňové změny).??
+-- SQL dotaz je vytvořen pomocí CTE (Common Table Expression), tj. syntaxí užívající WITH clause, a je složen z několika částí
+-- 1. "czech_data" - spočítá průměrnou mzdu a cenu potravin za jednotlivé roky
+-- 2. "gdp_data" - vybere HDP pro ČR za jednotlivé roky
+-- 3. "merged" - propojí průměrné mzdy, ceny potravin a HDP ČR za jednotlivé roky
+-- 4. "growth" - spočítá meziroční procentní změny růstu HDP, růstu průměrných mezd, růstu průměrných cen potravin
+
+-- výsledná tabulka ukazuje, o kolik procent se změnily jednotlivé kategorie oproti předchozímu roku:
+-- Sloupec gdp_growth_pct - meziroční změna HDP
+-- Sloupec salary_growth_pct - meziroční změna mezd
+-- Sloupec price_growth_pct - meziroční změna cen potravin
+
+-- Výsledky jsou interpretovány v přiloženém README projektu
