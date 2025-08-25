@@ -57,7 +57,11 @@ Součástí je i mezinárodní srovnání s dalšími evropskými státy.
 ### 1️⃣ Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
 **Odpověď:**  
+Podle dostupných dat mzdy v jednotlivých odvětvích během sledovaných let převážne rostly. Nejvyšší mzdy lze pozorovat v odvětvích **Informační a komunikační činnosti** a **Peněžnictví a pojišťovnictví**, naopak nejnižší v odvětví **Ubytování, stravování a pohostinství**.
+Nejvyšší meziroční nárust mezd o 13.81 % byl zaznamenán v roce 2008 v odvětví **Těžba a dobývání** (z 25 705 Kč na 29 254 Kč).
 
+Lze spatřovat i odvětví, kde docházelo k dočasným poklesům - výčet odvětví, kde mzda klesala je uveden v Tab. 3 (question1.sql). Nejčastěji se jednalo o odvětví **Těžba a dobývání**, kde došlo k poklesům v letech 2009, 2013, 2014 a 2016.
+Největší pokles o 8.91 % (z 50 254 Kč na 45 775 Kč) byl zaznamenán v roce 2013 v odvětví **Peněžnictví a pojišťovnictví**.  
 
 ---
 
